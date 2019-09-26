@@ -1,4 +1,4 @@
-# FUN - forecast
+# FUNtest - wheather application 
 
 Projekt wykonany dla zabawy wyświetlajacy pogodę  
 
