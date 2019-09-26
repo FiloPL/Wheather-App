@@ -1,6 +1,6 @@
 # FUN - forecast
 
-Projekt wykonany dla nauki i zabawy wyświetlajacy pogodę  
+Projekt wykonany dla zabawy wyświetlajacy pogodę  
 
 ## API
 
@@ -17,5 +17,5 @@ do wygenerowania klas z danych zwracanych z API użyto
 <http://www.jsonschema2pojo.org/>
 
 ## lista innych api
-dostępna lista innych api
+dostępna lista innych api dostępnych do implementacji
 <https://github.com/public-apis/public-apis>
